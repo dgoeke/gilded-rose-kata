@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/dgoeke/gilded-rose-kata.svg?style=svg)](https://circleci.com/gh/dgoeke/gilded-rose-kata)
+
 Hi and welcome to team Gilded Rose.
 
 As you know, we are a small inn with a prime location in a prominent city ran
